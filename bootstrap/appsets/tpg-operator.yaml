@@ -21,7 +21,7 @@ spec:
                       matchLabels:
                         tpg.fleet/managed: "true"
                 - git:
-                    repoURL: =https://github.com/tejasrao97/poc-tpg-fleet-v6.git
+                    repoURL: https://github.com/tejasrao97/poc-tpg-fleet-v7.git
                     revision: main
                     files:
                       - path: clusters/fleet.yaml

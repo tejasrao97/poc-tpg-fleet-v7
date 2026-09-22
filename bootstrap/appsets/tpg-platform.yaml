@@ -21,7 +21,7 @@ spec:
     spec:
       project: tpg
       source:
-        repoURL: =https://github.com/tejasrao97/poc-tpg-fleet-v6.git
+        repoURL: https://github.com/tejasrao97/poc-tpg-fleet-v7.git
         targetRevision: main
         path: platform/base
         # The managed-disk SKU of tpg-data-retain comes from Terraform

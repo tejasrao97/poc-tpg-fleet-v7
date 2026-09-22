@@ -9,7 +9,7 @@ metadata:
 spec:
   project: tpg
   source:
-    repoURL: =https://github.com/tejasrao97/poc-tpg-fleet-v6.git
+    repoURL: https://github.com/tejasrao97/poc-tpg-fleet-v7.git
     targetRevision: main
     path: workflows
   destination:

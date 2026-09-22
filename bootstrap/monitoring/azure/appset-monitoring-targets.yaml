@@ -29,10 +29,10 @@ spec:
             releaseName: tpg-ksm
             valueFiles:
               - $values/monitoring/ksm/values.yaml
-        - repoURL: =https://github.com/tejasrao97/poc-tpg-fleet-v6.git
+        - repoURL: https://github.com/tejasrao97/poc-tpg-fleet-v7.git
           targetRevision: main
           ref: values
-        - repoURL: =https://github.com/tejasrao97/poc-tpg-fleet-v6.git
+        - repoURL: https://github.com/tejasrao97/poc-tpg-fleet-v7.git
           targetRevision: main
           path: monitoring/azure/targets
       destination:
